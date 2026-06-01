@@ -1,4 +1,4 @@
-# ScholarNews AI 🎓
+# ScholarNews AI
 
 ScholarNews AI, üniversite öğrencilerinin burs, staj, etkinlik ve akademik haberlere yapay zeka desteğiyle tek bir merkezden, kişiselleştirilmiş bir şekilde ulaşmasını sağlayan modern bir Android uygulamasıdır. Öğrencilerin bilgi yığınları arasında kaybolmasını önleyerek, kariyer ve eğitim hayatlarına doğrudan katkı sunmayı hedefler.
 
